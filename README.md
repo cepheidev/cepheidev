@@ -9,7 +9,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 - 👨 Know more about me at [Sourcerer](https://marshalxp.xyz) 
 - 🌐 Visit my [porfolio website](https://cepheidev.github.io/) for complete background and contact.
 
-<details open>
+<details close>
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
