@@ -45,7 +45,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 <details close> 
  <summary><b>Featured Repos</b></summary>
 <p align = "center">
-<a href = "https://github.com/cepheidev/marshalbot"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=cepheidev&repo=pr2tik1&theme=tokyonight" /></a> <a href = "https://github.com/cepheidev/sketch-recognition"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cepheidev&repo=sketch-recognition&theme=tokyonight" /></a> </p>
+<a href = "https://github.com/cepheidev/marshal-grabber"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=cepheidev&repo=marshal-grabber&theme=tokyonight" /></a> <a href = "https://github.com/cepheidev/sketch-recognition"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cepheidev&repo=marshal-grabber&theme=tokyonight" /></a> </p>
 
 </details>
 
@@ -84,7 +84,7 @@ Sunday       96 commits     █████░░░░░░░░░░░░�
 
 ```text
 💻 Operating Systems: 
-Linux                    3 hrs 24 mins       █████████████████████████   100.0%
+Linux                    56 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
